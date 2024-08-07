@@ -1,6 +1,6 @@
 # FlipBot
 
-FlipBot is a comprehensive Telegram bot that provides a suite of features for managing various aspects of DeFi operations in the Chainflip ecosystem. It offers functionality for multi-chain wallet management, Chainflip account management, cross-chain messaging, and cross-chain swaps, utilizing the Chainflip SDK.
+FlipBot is a comprehensive Telegram bot that provides a suite of features for managing various aspects of DeFi operations in the Bitcoin ecosystem. It offers functionality for multi-chain wallet management, account management, cross-chain messaging, and cross-chain swaps, utilizing the Chainflip SDK.
 
 ## Features
 
